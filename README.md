@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Lemine</h1>
-<h3 align="center">A passionate computer science student from Mauritania</h3>
+<h3 align="center">A Passionate Computer Science Student From Mauritania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemin0x&label=Profile%20views&color=0e75b6&style=flat" alt="lemin0x" /> </p>
 
