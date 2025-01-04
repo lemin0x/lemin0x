@@ -1,23 +1,66 @@
-<h1 align="center">Hi 👋, I'm Mohammed Lemine</h1>
-<h3 align="center">A Passionate Computer Science Student From Mauritania</h3>
+# 🏄‍♂️ Lemin0x
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemin0x&label=Profile%20views&color=0e75b6&style=flat" alt="lemin0x" /> </p>
+**`CS student (Developer)`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemin0x" alt="lemin0x" /></a> </p>
 
+Hi 👋, I'm Mohammed Lemine A Passionate Computer Science Student From Mauritania.
+
+
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="GoLang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<br />
+
+#
+
+### My Skills
+- **Languages**: Python, JavaScript, Go, C
+- **Frameworks**: React, React Native
+- **Tools**: Git, Linux, VS Code
+
+### About Me
 - 🔭 I’m currently working on **AI app**
+- 🌱 I’m currently learning **Machine Learning and Web Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, JavaScript, and React**
+- 📫 How to reach me: [Instagram](https://instagram.com/m_1lmn)
+- ⚡ Fun fact: I love solving complex problems and building things from scratch.
 
+#
 
-<h3 align="left">Connect with me:</h3>
+### 📊 Stats
+
+![Lemin0x GitHub stats](https://github-readme-stats.vercel.app/api?username=lemin0x&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   Aspiring CS engineering student with a solid foundation in mathematics (linear algebra, calculus), vital for AI and machine learning. Proficient in Python with additional experience in Go, JavaScript, and shell scripting, boosting software development versatility. Gained hands-on problem-solving skills, enhancing expertise in Go, data structures, and algorithms to create efficient solutions. Currently pursuing a Bachelor’s degree in Computer Science and holding Meta certifications in Programming in Python and Introduction to Front-End Development. Fluent in Arabic; proficient in English and French. Passionate about continuous learning and innovative projects.
+-->
+
+### Connect with Me
 <p align="left">
-<a href="https://instagram.com/m_1lmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_1lmn" height="30" width="40" /></a>
+  <a href="https://instagram.com/m_1lmn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_1lmn" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lemin0x&show_icons=true&locale=en&layout=compact" alt="lemin0x" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemin0x&show_icons=true&locale=en" alt="lemin0x" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemin0x&" alt="lemin0x" /></p>
+###
+[website]: 
+[LinkedIn]: 
