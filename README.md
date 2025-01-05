@@ -37,7 +37,7 @@ Hi 👋, I'm Mohammed Lemine A Passionate Computer Science Student From Mauritan
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, JavaScript, and React**
 - 📫 How to reach me: [Instagram](https://instagram.com/m_1lmn)
-- ⚡ Fun fact: I love solving complex problems and building things from scratch.
+- ⚡ .
 
 #
 
