@@ -33,12 +33,6 @@ Hi 👋, I'm Mohammed Lemine A Passionate Computer Science Student From Mauritan
 
 
 
-### 📊 Stats
-
-![Lemin0x GitHub stats](https://github-readme-stats.vercel.app/api?username=lemin0x&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 #
 <!--
 <details>
