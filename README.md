@@ -31,15 +31,7 @@ Hi 👋, I'm Mohammed Lemine A Passionate Computer Science Student From Mauritan
 - **Frameworks**: React, React Native
 - **Tools**: Git, Linux, VS Code
 
-### About Me
-- 🔭 I’m currently working on **AI app**
-- 🌱 I’m currently learning **Machine Learning and Web Development**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, JavaScript, and React**
-- 📫 How to reach me: [Instagram](https://instagram.com/m_1lmn)
-- ⚡ .
 
-#
 
 ### 📊 Stats
 
