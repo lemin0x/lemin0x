@@ -3,8 +3,7 @@
 **`CS student (Developer)`**
 
 
-Hi 👋, I'm Mohammed Lemine A Passionate Computer Science Student From Mauritania.
-
+Hi 👋, I'm Mohammed Lemine A Passionate Computer Science Student .
 
 
 ---
@@ -40,11 +39,11 @@ Hi 👋, I'm Mohammed Lemine A Passionate Computer Science Student From Mauritan
    Aspiring CS engineering student with a solid foundation in mathematics (linear algebra, calculus), vital for AI and machine learning. Proficient in Python with additional experience in Go, JavaScript, and shell scripting, boosting software development versatility. Gained hands-on problem-solving skills, enhancing expertise in Go, data structures, and algorithms to create efficient solutions. Currently pursuing a Bachelor’s degree in Computer Science and holding Meta certifications in Programming in Python and Introduction to Front-End Development. Fluent in Arabic; proficient in English and French. Passionate about continuous learning and innovative projects.
 -->
 
-### Connect with Me
-<p align="left">
+
+<!-- <p align="left">
   <a href="https://instagram.com/m_1lmn" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_1lmn" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ###
