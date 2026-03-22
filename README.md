@@ -1,9 +1,9 @@
-# 🏄‍♂️ Lemin0x
+# 🏄‍♂️ lemin0x
 
 **`CS student (Developer)`**
 
 
-Hi 👋, I'm Mohammed Lemine A Passionate Computer Science Student .
+Hi 👋, I'm Mohammed lemine A Passionate Computer Science Student .
 
 
 ---
