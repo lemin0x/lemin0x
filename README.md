@@ -66,10 +66,9 @@
 ## 📊 GitHub Stats
  
 <div align="center">
- 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lemin0x&show_icons=true&theme=default&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemin0x&layout=compact&hide_border=true&theme=default" />
+<img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lemin0x&show_icons=true&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lemin0x&layout=compact&hide_border=true" />
 
 </div>
 
