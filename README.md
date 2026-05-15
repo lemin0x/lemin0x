@@ -1,6 +1,6 @@
 <div align="center">
  
-## Salam, I'm Mohamed lemine 👋
+## Salam, I'm Mohamed lemine 
  
 ### Full Stack Developer · CS Student · Ml Enthusiast
  
@@ -10,16 +10,16 @@
 
 ---
  
-## 🧠 About Me
+## About Me
  
-- 🔭 I'm currently working on **Building Chatbot with RAG**
-- 🌱 Always learning something new — latest obsession: **NLP , Developing llms apps with langChain**
-- 🛠️ I love exploring different stacks and picking the right tool for the job
-- 💡 I believe the best code is the one that actually ships
+-  I'm currently working on **Building Chatbot with RAG**
+-  Always learning something new — latest obsession: **NLP , Developing llms apps with langChain**
+-  I love exploring different stacks and picking the right tool for the job
+-  I believe the best code is the one that actually ships
 
 ---
  
-## 🛠️ Tech I've Worked With
+##  Tech I've Worked With
  
 **Languages**
  
@@ -63,7 +63,7 @@
  
 ---
  
-## 📊 GitHub Stats
+##  GitHub Stats
  
 <div align="center">
 
