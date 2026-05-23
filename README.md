@@ -74,7 +74,7 @@
 
 <div align="center">
  
-![GitHub Streak](https://streak-stats.demolab.com?user=lemin0x&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lemin0x&theme=highcontrast)](https://git.io/streak-stats)
  
 </div>
 
